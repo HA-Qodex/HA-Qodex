@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Huzaifa Ahmed
 <!-- 
 **HA-Qodex/HA-Qodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started: -->
+
 - 🔭 I’m currently working on ![Flutter Badge](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 - 🌱 I’m currently learning ![Python Badge](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=FFE873)
 - 👯 I’m looking to collaborate on ...
